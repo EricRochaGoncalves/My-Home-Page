@@ -141,7 +141,7 @@ main {
 }
 .links {
   display: flex;
-  width: 60%;
+  width: 100%;
   height: auto;
   margin: 0 auto;
   border: 2px solid white;
@@ -153,10 +153,10 @@ main {
   transform: scale(1.2);
   transition: 0.5s;
 }
-.links a {
+.links h1 {
   color: white;
   font-size: 25px;
-  padding: 25px 25px;
+  
   
 }
 
